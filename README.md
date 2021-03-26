@@ -1,4 +1,4 @@
-### Non-fungible token
+### Non-fungible token （＝代替不可能なトークン）
 ### 
 ---
 
