@@ -4,7 +4,15 @@
 
 
 ```
+同期　sync
+Full sync
+Fast sync
+Snap sync
 ```
+| Trie | key | value |
+| --- | --- | --- | 
+| | |
+
 
 ```
 ```
